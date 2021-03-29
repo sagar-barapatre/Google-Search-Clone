@@ -27,7 +27,7 @@ LIve Link: https://search-engine-cb6e7.web.app/
 ```
 
 
-$ git clone https://github.com/Maheshoo7/Google-search-clone.git
+$ git clone https://github.com/sagar-barapatre/Google-search-clone.git
 
 $ cd google-search-clone/
 

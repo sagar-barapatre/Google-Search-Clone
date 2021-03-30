@@ -14,8 +14,6 @@ LIve Link: https://search-engine-cb6e7.web.app/
 ### Getting started
 
 ```
-
-
 $ git clone https://github.com/sagar-barapatre/Google-Search-Clone.git
 
 $ cd google-search-clone/
@@ -23,7 +21,4 @@ $ cd google-search-clone/
 $ npm install
 
 $ npm start
-
-
-
 ```

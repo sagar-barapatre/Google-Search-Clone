@@ -4,17 +4,6 @@
 
 <p align="center">A  <strong>Google Search Engine Clone</strong> that is built using the React js and google search api.</p>
 
-<p>&nbsp;</p> 
-
-
-![img1](demo/img1.png)
-
-<p>&nbsp;</p> 
-
-![img2](demo/img2.png)
-
-<p>&nbsp;</p> 
-<p>&nbsp;</p> 
 
 ####  Deployed on firebase:
 
